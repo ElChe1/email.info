@@ -10,10 +10,10 @@ import webbrowser
 import json
 
 #Configuración para enviar el correo.
-send = 'csh.hkxhtb12854@gmail.com' #Correo que enviará el email
-password = 'musx tcvj pdkh tszn' #Contraseña de aplicaciones 
+send = '' #Correo que enviará el email
+password = '' #Contraseña de aplicaciones 
 #https://myaccount.google.com/u/4/apppasswords?rapt=AEjHL4PqCbS9OdaTDzN3doCeojp3QS54o3DUyR7fUNIHzf7U_kSJWzF4SEZyvXOra2ZfX3QgIe0WMQYizVUyKvTklqS0mzwZgw
-reciver = 'setcomu2005@gmail.com' #Correo que va a recibir el email
+reciver = '' #Correo que va a recibir el email
 
 body= "Información diaria del dispsitivo." #Asunto
 cuerpo = "" #Comentarios
